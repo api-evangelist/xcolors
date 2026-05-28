@@ -1,0 +1,32 @@
+aid: xcolors
+name: xColors
+description: "Generate & convert colors"
+url: https://x-colors.herokuapp.com/
+specificationVersion: '0.20'
+created: '2026-05-28'
+modified: '2026-05-28'
+x-source: public-apis/public-apis
+x-category: "Art & Design"
+x-tier: 3
+x-tier-reason: bulk-registered-from-public-apis
+tags:
+  - Art And Design
+  - Public APIs
+apis:
+  - name: xColors
+    description: "Generate & convert colors"
+    humanURL: https://x-colors.herokuapp.com/
+    baseURL: https://x-colors.herokuapp.com/
+    tags:
+      - Art And Design
+    properties:
+      - type: Documentation
+        url: https://x-colors.herokuapp.com/
+common:
+  - type: Website
+    url: https://x-colors.herokuapp.com/
+  - type: PublicAPIsListing
+    url: https://github.com/public-apis/public-apis
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
