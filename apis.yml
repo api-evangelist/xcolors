@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://x-colors.herokuapp.com/
 common:
+  - type: DomainSecurity
+    url: security/xcolors-domain-security.yml
   - type: Website
     url: https://x-colors.herokuapp.com/
   - type: PublicAPIsListing
