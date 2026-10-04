@@ -33,13 +33,12 @@ x-category: "Art & Design"
 x-tier: 3
 x-tier-reason: bulk-registered-from-public-apis
 tags:
-  - Art And Design
   - Public APIs
+  - Design
 apis:
   - name: xColors
     description: "Generate & convert colors"
     humanURL: https://x-colors.herokuapp.com/
-    baseURL: https://x-colors.herokuapp.com/
     tags:
       - Art And Design
     properties:
@@ -55,3 +54,5 @@ common:
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
+x-tags-removed:
+- Art And Design
